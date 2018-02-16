@@ -1,12 +1,13 @@
 
+
 body {
-  background-color: #d0e4fe;
+  background-color: #46C646;
   text-align: center;
 }
 
 h1 {
-  font-family: 'Lobster', cursive;
-  color: orange;
+  font-family: 'Economica', cursive;
+  color: white;
 }
 
 p {
@@ -18,3 +19,4 @@ p {
   height: 140px;
   margin-top: 20px;
 }
+
